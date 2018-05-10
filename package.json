@@ -1,0 +1,14 @@
+{
+  "name": "js-tdd-course",
+  "version": "0.0.1",
+  "description": "Lib do curso js-tdd-course",
+  "main": "index.js",
+  "repository": "git@github.com:JWebCoder/js-tdd-course.git",
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "João Moura <joao87moura@gmail.com> (https://github.com/JWebCoder)",
+  "license": "MIT"
+}
